@@ -1,5 +1,5 @@
 # Pyqt QR Code Cgenerator
-A simple QR Code generator using a GUI build in PyQT5.
+A simple QR Code generator using a GUI build in PyQt5.
 
 # Features 
 - Save the generated QR Code by clicking on the image.
