@@ -6,11 +6,9 @@ A simple QR Code generator using a GUI build in PyQT5.
 - QR Code image auto-update while typing.
 
 # Installation 
-```
-pip install qrcode
-pip install pyautogui
-pip install PyQt5
-```
+> `pip install qrcode`
+> `pip install pyautogui`
+> `pip install PyQt5`
 
 # Screenshot
 <p align="center">
