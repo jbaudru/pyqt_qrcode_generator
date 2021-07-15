@@ -7,7 +7,9 @@ A simple QR Code generator using a GUI build in PyQT5.
 
 # Installation 
 > `pip install qrcode`
+
 > `pip install pyautogui`
+
 > `pip install PyQt5`
 
 # Screenshot
